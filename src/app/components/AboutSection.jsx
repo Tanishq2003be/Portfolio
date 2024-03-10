@@ -33,7 +33,11 @@ const TAB_DATA = [
         <li>Thapar Institute of Engineering and Technology</li>
         {" "}
         12th
-        <li>Translam Academy International(99%)</li>
+        <li>Translam Academy International </li>
+        {" "}
+        Science (Physics,Chemistry,Math)
+        {" "}
+        99%
       </ul>
     ),
   },
