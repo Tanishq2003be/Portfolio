@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["All", "Web","Mobile"],
     gitUrl: "https://github.com/Tanishq2003be/Netflix-clone",
-    previewUrl: "https://netflix-clone-chi-hazel.vercel.app/",
+    previewUrl: "https://netflix-clone-2eai-git-main-tanishq2003bes-projects.vercel.app/",
   },
   {
     id: 3,
