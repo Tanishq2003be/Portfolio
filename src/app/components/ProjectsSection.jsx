@@ -68,6 +68,15 @@ const projectsData = [
     gitUrl: "https://github.com/Tanishq2003be/Hostel-Management",
     previewUrl:"/"
   },
+  {
+    id: 8,
+    title: "Zentacle: E-Commerce (Internship)",
+    description: "Developed an e-commerce platform for startup (Zentacle) using the MERN stack, featuring product browsing, secure purchasing, order tracking, and a multivendor marketplace.",
+    image: "/images/projects/8.jpeg",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/Tanishq2003be/E-Commerce-Zentacle",
+    previewUrl:"/"
+  },
 
 ];
 
